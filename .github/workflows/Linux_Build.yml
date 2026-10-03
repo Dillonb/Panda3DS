@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - linux-aarch64-build
   pull_request:
 
 env:
